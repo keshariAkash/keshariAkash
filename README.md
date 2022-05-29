@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshariAkash
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Advanced Java
+- 👀 I’m a Software Developer.
+- 🌱 I'm good at Java Full Stack!
 - 📫 You can reach me at akashkeshari5@gmail.com
 
 <!---
