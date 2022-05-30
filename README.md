@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshariAkash
 - 👀 I’m a Software Developer.
-- 🌱 I'm good at Java Full Stack!
+- 🌱 I'm good at Java Backend Development part!
 - 📫 You can reach me at akashkeshari5@gmail.com
 
 <!---
